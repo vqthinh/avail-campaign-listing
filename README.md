@@ -51,3 +51,4 @@ Make sure that you're only adding one file in your PR. This should be a .json fi
 format and should be inside the `app_chains` folder.
 Commit 1 line
 Commit 2 line
+Commit 3 line
