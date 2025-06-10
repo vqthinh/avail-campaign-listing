@@ -49,3 +49,4 @@ Make sure all your entrypoints (`rpc_url`, `explorer_url`, `metrics_endpoint`) a
 
 Make sure that you're only adding one file in your PR. This should be a .json file in the above mentioned
 format and should be inside the `app_chains` folder.
+Commit 1 line
